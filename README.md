@@ -9,3 +9,4 @@
 ---
 
 [LinkedIn](https://linkedin.com/in/álvaro-oliveira-b947593a2)
+[Email](mailto:alvarogit-ops@gmail.com)
